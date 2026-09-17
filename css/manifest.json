@@ -1,0 +1,31 @@
+{
+  "name": "JohnnyTech.dev",
+  "short_name": "JohnnyTech",
+  "description": "Johnny Fatorma — Developer Portfolio and Projects",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#03080d",
+  "theme_color": "#03080d",
+  "lang": "en",
+  "categories": [
+    "portfolio",
+    "developer",
+    "technology"
+  ],
+  "icons": [
+    {
+      "src": "./assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
